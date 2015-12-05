@@ -11,7 +11,7 @@ This repository _is not_ the original repository for this tool.Here are some lin
 
 In this repository, for Testful you will find:
 * :x: Source code (not available)
-* :x: Executable tool (not available)
+* :white_check_mark: <a href="http://sdic.dei.uc.pt/home/prototype/download/"> Executable tool (available).</a>
 
 Thanks to Mr.Bruno Antunes for helping me in establishing this repository. 
 
