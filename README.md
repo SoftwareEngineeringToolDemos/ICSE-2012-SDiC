@@ -9,7 +9,7 @@ This repository _is not_ the original repository for this tool.Here are some lin
 * <a href="http://sdic.dei.uc.pt/home/prototype/download/">The Official Download Link.</a>
 * <a href="https://www.youtube.com/watch?v=xRT5aw24-PQ/">A Video of the Tool.</a>
 
-In this repository, for Testful you will find:
+In this repository, for SDiC you will find:
 * :x: Source code (not available)
 * :white_check_mark: <a href="http://sdic.dei.uc.pt/home/prototype/download/"> Executable tool (available).</a>
 
