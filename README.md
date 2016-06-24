@@ -11,7 +11,8 @@ This repository _is not_ the original repository for this tool.Here are some lin
 
 In this repository, for SDiC you will find:
 * :x: Source code (not available)
-* :white_check_mark: <a href="http://sdic.dei.uc.pt/home/prototype/download/"> Executable tool (available).</a>
+* :x: Executable tool (not available).
+* :x: Virtual machine containing tool (not available)
 
 Thanks to Mr.Bruno Antunes for helping me in establishing this repository. 
 
